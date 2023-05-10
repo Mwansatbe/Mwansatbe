@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mwansa Chilekwa an IT student at ZCAS University, Zambia. My undergrad is in computer science/information technology.
+I am Mwansa Chilekwa, a graduate in computer science/information technology .
 I am very passionate about software development and I am currently taking on The OdinProject's web development curriculum to up 
 my skills in web devlopment. 
 
